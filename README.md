@@ -1,4 +1,6 @@
 # D-FLIPDLOP-NEGEDGE
+# Name: K Charan Teja
+# Reg No: 212224040163
 
 **AIM:**
 
